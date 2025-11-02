@@ -1,7 +1,9 @@
 # ToDo App (React)
 
 A simple React ToDo App to manage your tasks efficiently. Add new tasks, mark them as completed, and filter your tasks easily.
-##Features:
+
+# Features:
+
 Add new tasks to your list
 Mark tasks as completed by clicking the circular checkbox
 Delete tasks individually
