@@ -18,11 +18,8 @@ https://todo-app-fnuryigit.netlify.app
 
 
 ## Technologies Used:
--React
--HTML5, 
--CSS3, 
--JavaScript (ES6), 
--Netlify
-
-
+- HTML5  
+- CSS3  
+- Vanilla JavaScript  
+- Netlify
 
