@@ -15,12 +15,12 @@ https://todo-app-fnuryigit.netlify.app
 
 
 
-Technologies Used:
+## Technologies Used:
 React, HTML5, CSS3, JavaScript (ES6), Netlify
 
 
 
-Run Locally:
+##Run Locally:
 Clone the repo: git clone https://github.com/fnuryigit/todo-app.git
 Go into the project folder: cd todo-app
 Install dependencies: npm install
